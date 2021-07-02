@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RichText basic 1`] = `
+<div>
+  <taro-view-core
+    class="mx-rich-text"
+  >
+    test
+  </taro-view-core>
+</div>
+`;
+
+exports[`RichText html 1`] = `
+<div>
+  <taro-view-core
+    class="mx-rich-text"
+  >
+    <p>
+      123
+    </p>
+    <p>
+      <img
+        src="test"
+      />
+    </p>
+  </taro-view-core>
+</div>
+`;
