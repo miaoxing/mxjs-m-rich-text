@@ -1,8 +1,14 @@
 import {View} from '@fower/taro';
 import PropTypes from 'prop-types';
+import Taro from '@tarojs/taro';
 import './index.scss';
 
-// TODO 默认图片 mode 为 scaleToFill，图片过小时，会被拉伸变形
+Taro.options.html.transformElement = (el) => {
+  if (el.nodeName === 'image') {
+    el.setAttribute('mode', 'widthFix');
+  }
+  return el;
+};
 
 const RichText = ({children, ...props}) => (
   <View className="mx-rich-text" {...props} dangerouslySetInnerHTML={{__html: children}}/>
