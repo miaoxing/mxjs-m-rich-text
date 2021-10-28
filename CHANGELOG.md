@@ -1,3 +1,27 @@
+## [0.1.1](https://github.com/miaoxing/mxjs-m-rich-text/compare/v0.1.0...v0.1.1) (2021-10-28)
+
+
+### Bug Fixes
+
+* **m-rich-text:** 移除 `@tarojs/taro/html` 引入的边距 ([922d0e6](https://github.com/miaoxing/mxjs-m-rich-text/commit/922d0e6997a0933a1e92823c9d2e95eb94befa37))
+* **m-rich-text:** 解决图片被拉伸，默认 320px 宽度的问题 ([a6e6de5](https://github.com/miaoxing/mxjs-m-rich-text/commit/a6e6de52a96552198168721d916a525e4dd966a4))
+* 指定 node >=12.10.0 ([f40d86b](https://github.com/miaoxing/mxjs-m-rich-text/commit/f40d86b865c40b3dfd2556f6f639c40b23d0dfbb))
+
+
+### Features
+
+* **m-rich-text:** 增加 `RichText` 组件 ([21f47e4](https://github.com/miaoxing/mxjs-m-rich-text/commit/21f47e494bd07d4f2b267d9b7216ea1c21b833d6))
+* **m-rich-text:** 控制 h5 下列表前面的数字标记不超出内容区 ([e9fed9d](https://github.com/miaoxing/mxjs-m-rich-text/commit/e9fed9d1e0a47ec7943cc5fd22f4e1e34df014bc))
+* **m-rich-text:** 控制 h5 下图片不超出屏幕 ([c2c1172](https://github.com/miaoxing/mxjs-m-rich-text/commit/c2c117205b56bce038cb9b1c9ab68ca4fd3f86f4))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `7.0.1` to `8.0.0`
+
 # 0.1.0 (2021-06-21)
 
 
