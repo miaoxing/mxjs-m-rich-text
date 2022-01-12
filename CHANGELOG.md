@@ -1,3 +1,25 @@
+## [0.1.2](https://github.com/miaoxing/mxjs-m-rich-text/compare/v0.1.1...v0.1.2) (2022-01-12)
+
+
+### Bug Fixes
+
+* 更新 `[@fower](https://github.com/fower)` 到 `^1.59.0` ([7cc49d0](https://github.com/miaoxing/mxjs-m-rich-text/commit/7cc49d03563e3d94baa7ca4464ceaf6a61f2a2df))
+
+
+### Features
+
+* **taro:** 限制 taro 为 3.3.x，3.4 有 BREAKING CHANGES ([f15134c](https://github.com/miaoxing/mxjs-m-rich-text/commit/f15134c74aafc133525193b861eae35558abdd60))
+* 更新 `[@fower](https://github.com/fower)` 到 `^1.61` ([5b2575b](https://github.com/miaoxing/mxjs-m-rich-text/commit/5b2575b2643a49a89be21260914a4be2b05ca3aa))
+* 更新 taro 到 `^3.3.20` ([fad6cf3](https://github.com/miaoxing/mxjs-m-rich-text/commit/fad6cf33cfa7ab3fde79879995d2150c4a06d73c))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.0.0` to `8.0.1`
+
 ## [0.1.1](https://github.com/miaoxing/mxjs-m-rich-text/compare/v0.1.0...v0.1.1) (2021-10-28)
 
 
