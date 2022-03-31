@@ -1,3 +1,10 @@
+## [0.1.4](https://github.com/miaoxing/mxjs-m-rich-text/compare/v0.1.3...v0.1.4) (2022-03-31)
+
+
+### Features
+
+* 更新 `fower` 到 `^1.70.0` ([2e46139](https://github.com/miaoxing/mxjs-m-rich-text/commit/2e461392a5c21b546ca037598a935e19192ee62e))
+
 ## [0.1.3](https://github.com/miaoxing/mxjs-m-rich-text/compare/v0.1.2...v0.1.3) (2022-02-05)
 
 
