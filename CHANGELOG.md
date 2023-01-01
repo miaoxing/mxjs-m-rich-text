@@ -1,3 +1,18 @@
+# [1.1.0](https://github.com/miaoxing/mxjs-m-rich-text/compare/v1.0.1...v1.1.0) (2023-01-01)
+
+
+### Features
+
+* 更新 `fower` 到 `~1.75.0` ([1ed9e2f](https://github.com/miaoxing/mxjs-m-rich-text/commit/1ed9e2ffcb82486d6eac75797575d9e991deca9b))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.1.3` to `8.2.0`
+
 ## [1.0.1](https://github.com/miaoxing/mxjs-m-rich-text/compare/v1.0.0...v1.0.1) (2022-08-02)
 
 
