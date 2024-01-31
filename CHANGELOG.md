@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/miaoxing/mxjs-m-rich-text/compare/v1.1.6...v1.2.0) (2024-01-31)
+
+
+### Features
+
+* 更新 `react` 支持 18 ([b66553a](https://github.com/miaoxing/mxjs-m-rich-text/commit/b66553a28408d14fc076c07e2e6cbdab0c84a4d8))
+
 ## [1.1.6](https://github.com/miaoxing/mxjs-m-rich-text/compare/v1.1.5...v1.1.6) (2024-01-08)
 
 
